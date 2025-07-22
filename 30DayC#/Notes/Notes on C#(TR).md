@@ -140,15 +140,22 @@ Bit düzeyinde işlemler (`&`, `|`, `^`, `~`, `<<`, `>>`). Özellikle algoritmal
 
 ------
 
-## 💡 BONUSES AND SPECIAL CONTRIBUTIONS
+## 💡 BONUSLAR VE ÖZEL KATKILAR
+"You win some. You lose some." ifadesiyle Split() kullanımını örneklerle gösterdi; hem boşluk hem de nokta karakteriyle parçalama uygulandı.
 
-* Demonstrated `Split()` with examples: "You win some. You lose some." → splitting by both spaces and periods.
-* Resolved a logical error in Regex usage (group structure including `|` instead of `&&`).
-* Created test examples running in Release mode.
-* Built user-interactive test scenarios.
-* Authored explanatory and understandable examples with the "Code With Love (cwl)" signature.
-* Performed code scoring and style evaluation (e.g., readability, user experience, modularity).
-* Analyzed an example that finds the maximum `a & b < k` combination.
+Regex kullanımında mantıksal bir hata düzeltildi (&& yerine gruplandırma içinde | kullanımı sağlandı).
+
+Release modda çalışan test örnekleri oluşturuldu.
+
+Kullanıcı etkileşimli test senaryoları geliştirildi.
+
+"Code With Love (cwl)" imzasıyla açıklayıcı ve anlaşılır örnekler yazıldı.
+
+Kod puanlama ve stil değerlendirmesi yapıldı (örneğin okunabilirlik, kullanıcı deneyimi, modülerlik).
+
+a & b < k koşulunu sağlayan maksimum kombinasyonu bulan örnek analiz edildi.
+
+
 ------
 
 ## 💡 Kafaları Karıştırabilecek Noktalar
